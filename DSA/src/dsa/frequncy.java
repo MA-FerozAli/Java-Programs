@@ -1,4 +1,4 @@
-//program
+//program to find frequency of each element in array
 package dsa;
 import java.util.*;
 
